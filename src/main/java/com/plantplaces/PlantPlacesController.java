@@ -20,6 +20,6 @@ public class PlantPlacesController {
 	public String index()
 	{
 		return "start";
-		//testing
+		
 	}
 }
