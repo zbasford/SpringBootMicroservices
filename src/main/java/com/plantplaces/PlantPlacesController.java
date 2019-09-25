@@ -34,7 +34,7 @@ public class PlantPlacesController {
 	{
 		return "start";
 	}
-	//testing
+	
 	
 	@PostMapping("/start")
 	public String create()
